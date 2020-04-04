@@ -1,1 +1,3 @@
-
+do
+msgbox("你要说的话")
+loop
